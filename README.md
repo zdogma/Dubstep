@@ -1,7 +1,8 @@
 # Dubstep
 
 Dubstep の作曲関連のリポジトリ。  
-Git LFS をお試しで使ってみるという意味合いも込めて。
+
+![](https://github.com/zdogma/Dubstep/blob/master/DubstepBasis.logicx/Alternatives/000/WindowImage.jpg)
 
 ## Description
 Not yet
